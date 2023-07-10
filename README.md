@@ -1,4 +1,4 @@
-Advanced HTML
+![121832064_2251530448325778_6904663184517592070_n](https://github.com/Solowise130/alx-frontend/assets/102917931/6f7ce834-a9cd-4545-a38b-a07d42e5be36)Advanced HTML
 In this project, learned how to use HTML tags to structure a web page without CSS
 
 Learning Objectives
@@ -14,7 +14,7 @@ How to structure data in a table
 How to integrate a video into a webpage
 How to integrate an audio file into a webpage
 How to embed external content
-How to correctly structure an HTML page
+How to correctly structure an HTML page.
 
 Resources
 https://intranet.alxswe.com/concepts/543
