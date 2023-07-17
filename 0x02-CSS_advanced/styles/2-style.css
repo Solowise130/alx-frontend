@@ -1,6 +1,10 @@
+/* Adding Transition Effect */
+
 html {
     scroll-behavior: smooth;
 }
+
+/* Application of color values */
 
 body{
     background-color: #161616;
