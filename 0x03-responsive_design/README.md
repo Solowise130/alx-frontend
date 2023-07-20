@@ -16,21 +16,30 @@ Code example
   box-sizing: border-box;
 }
 
-Resources
+RESOURCES
+[Responsive web design] (https://intranet.hbtn.io/concepts/185)
+[The building blocks of responsive design - Progressive web apps | MDN] (https://intranet.hbtn.io/rltoken/xunPO8dNZy0mJpq8vbUMRA)
+[Apragmatic guide to designing and building responsive web applications | developerlife.com] (https://intranet.hbtn.io/rltoken/rs5zCrDpRaU6LD13-rG2yg)
+[Understanding the difference between mobile-first, adaptive and responsive design] (https://intranet.hbtn.io/rltoken/7W08yfp6vBGFlgoqZZc7eQ)
+[LukeW | Mobile First] (https://intranet.hbtn.io/rltoken/AMTqHMY4OeGET3nOdRH2uQ)
+[Media Queries | A collection of inspirational websites using media queries and responsive web design] (https://intranet.hbtn.io/rltoken/bk52ihWug_pe0QUghl99aQ)
+[Responsive Design Newsletter] (https://intranet.hbtn.io/rltoken/1k39DhswkQfzN7L4N7pO7w)
 
-https://intranet.alxswe.com/rltoken/l03RCO9Lpb1cCYdJLIJFAQ
+TASKS
+https://intranet.alxswe.com/projects/1194#task-11374
 
-https://intranet.alxswe.com/rltoken/o3EMSmw1WrNDSLJe3QcPIw
-
-https://intranet.alxswe.com/rltoken/kYMxBNgzzyb2s7ZkVa5HJA
-
-https://intranet.alxswe.com/rltoken/V7x4ZBedCZlZa4n3HfolyA
-
-https://intranet.alxswe.com/rltoken/6CYunSvuxKo0aMHTXAMO3w
-
-https://intranet.alxswe.com/rltoken/gPX33evbEgxMIYLnizrrvg
-
-https://intranet.alxswe.com/rltoken/6SOmvi6vROzFLgKqSG-ODA
+0. Fix the hero banner
+1. Make the container flexible
+2. Fix layout issues
+3. Generate images with responsive breakpoints
+4. Create the mobile icon and hide the menu
+5. Hamburger!
+6. Add the behavior based on menu-btn state
+7. Make the font size responsive
+8. Improve the "Works" section
+9. Improve the "Footer" section
+10. Fix the top header background
+11. Make the article page responsive
 
 
 Learning Objectives
@@ -56,13 +65,3 @@ Allowed editors: vi, vim, emacs
 A README.md at the root of the project directory is mandatory
 
 HTML and CSS have been rendered on Chrome 78 or more.
-
-
-Starter files
-
-00-index.html
-
-TASKS
-
-
-https://intranet.alxswe.com/projects/1194#task-11374
